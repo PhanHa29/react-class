@@ -3,7 +3,7 @@ import './ProductList.css'
 import { products } from './Data';
 import { ProductContext } from './ProductContext';
 
-type Product = {
+export type Product = {
   name: string;
   description: string;
   price: number;
