@@ -1,0 +1,9 @@
+#mainmenu {
+    display: flex;
+    margin-left: 20%;
+    
+  }
+
+  #choice{
+    margin-right: 20%;
+  }
